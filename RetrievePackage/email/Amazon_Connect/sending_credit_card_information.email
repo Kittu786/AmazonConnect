@@ -1,0 +1,7 @@
+Hi {!Account.Name},
+
+Thanks for reaching out to us. A Case {!Case.CaseNumber} has been logged to replace a card ending with {!Case.Block_Credit_Card_Number__c} , You will receive the card in 3 business days at  {!Account.BillingStreet} {!Account.BillingCity} {!Account.BillingState} {!Account.BillingCountry}.
+
+Thanks, 
+Customer Support, 
+{!Account.Bank_Name__c}

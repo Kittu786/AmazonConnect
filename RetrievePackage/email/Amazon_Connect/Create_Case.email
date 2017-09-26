@@ -1,0 +1,7 @@
+Hi {!Account.Name},
+
+Thanks for reaching out to us. A case {!Case.CaseNumber} has been logged for your request to "DEACTIVATE CREDIT CARD", ending with {!Case.Block_Credit_Card_Number__c}
+
+Thanks, 
+Customer Support, 
+{!Account.Bank_Name__c}
